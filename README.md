@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Habib - Frontend Developer" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Md Habibullah</h1>
 <h3 align="center">A passionate frontend developer crafting modern and user-friendly web experiences.</h3>
 
