@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Habib - Frontend Developer" width="100%" />
+  <img src="./Modern Developer Portfolio Banner.png" alt="Habib - Frontend Developer" width="100%" />
 </p>
 
 
