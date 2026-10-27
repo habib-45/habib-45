@@ -4,7 +4,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Habibullah</h1>
-<h3 align="center">A passionate frontend developer crafting modern and user-friendly web experiences.</h3>
+<h3 align="center">A passionate Full Stack Developer crafting modern, responsive, and user-friendly web applications.</h3>
+<h3 align="center">Full Stack Developer | Building modern web applications with React, Next.js, Node.js, Express.js, and MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-45&label=Profile%20views&color=0e75b6&style=flat" alt="habib-45" /> </p>
 
